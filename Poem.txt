@@ -7,5 +7,6 @@ Brown
 Black
 Green!
 Yellow
+Indigo
 Unicorn
 Meme
